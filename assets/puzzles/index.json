@@ -1,0 +1,84 @@
+{
+  "puzzles": [
+    {
+      "id": "01",
+      "rgb": "assets/puzzles/01/IMG_1_RGB.jpeg",
+      "temp": "assets/puzzles/01/IMG_1_MRT.jpeg",
+      "mask": "assets/puzzles/01/IMG_1_mask.png",
+      "cold": "assets/puzzles/01/IMG_1_cold_mask.png",
+      "meta": "assets/puzzles/01/IMG_1_meta.json"
+    },
+    {
+      "id": "02",
+      "rgb": "assets/puzzles/02/IMG_2_RGB.jpeg",
+      "temp": "assets/puzzles/02/IMG_2_MRT.jpeg",
+      "mask": "assets/puzzles/02/IMG_2_mask.png",
+      "cold": "assets/puzzles/02/IMG_2_cold_mask.png",
+      "meta": "assets/puzzles/02/IMG_2_meta.json"
+    },
+    {
+      "id": "03",
+      "rgb": "assets/puzzles/03/IMG_3_RGB.jpeg",
+      "temp": "assets/puzzles/03/IMG_3_MRT.jpeg",
+      "mask": "assets/puzzles/03/IMG_3_mask.png",
+      "cold": "assets/puzzles/03/IMG_3_cold_mask.png",
+      "meta": "assets/puzzles/03/IMG_3_meta.json"
+    },
+    {
+      "id": "04",
+      "rgb": "assets/puzzles/04/IMG_4_RGB.jpeg",
+      "temp": "assets/puzzles/04/IMG_4_MRT.jpeg",
+      "mask": "assets/puzzles/04/IMG_4_mask.png",
+      "cold": "assets/puzzles/04/IMG_4_cold_mask.png",
+      "meta": "assets/puzzles/04/IMG_4_meta.json"
+    },
+    {
+      "id": "05",
+      "rgb": "assets/puzzles/05/IMG_5_RGB.jpeg",
+      "temp": "assets/puzzles/05/IMG_5_MRT.jpeg",
+      "mask": "assets/puzzles/05/IMG_5_mask.png",
+      "cold": "assets/puzzles/05/IMG_5_cold_mask.png",
+      "meta": "assets/puzzles/05/IMG_5_meta.json"
+    },
+    {
+      "id": "06",
+      "rgb": "assets/puzzles/06/IMG_6_RGB.jpeg",
+      "temp": "assets/puzzles/06/IMG_6_MRT.jpeg",
+      "mask": "assets/puzzles/06/IMG_6_mask.png",
+      "cold": "assets/puzzles/06/IMG_6_cold_mask.png",
+      "meta": "assets/puzzles/06/IMG_6_meta.json"
+    },
+    {
+      "id": "07",
+      "rgb": "assets/puzzles/07/IMG_7_RGB.jpeg",
+      "temp": "assets/puzzles/07/IMG_7_MRT.jpeg",
+      "mask": "assets/puzzles/07/IMG_7_mask.png",
+      "cold": "assets/puzzles/07/IMG_7_cold_mask.png",
+      "meta": "assets/puzzles/07/IMG_7_meta.json"
+    },
+    {
+      "id": "08",
+      "rgb": "assets/puzzles/08/IMG_8_RGB.jpeg",
+      "temp": "assets/puzzles/08/IMG_8_MRT.jpeg",
+      "mask": "assets/puzzles/08/IMG_8_mask.png",
+      "cold": "assets/puzzles/08/IMG_8_cold_mask.png",
+      "meta": "assets/puzzles/08/IMG_8_meta.json"
+    },
+    {
+      "id": "09",
+      "rgb": "assets/puzzles/09/IMG_9_RGB.jpeg",
+      "temp": "assets/puzzles/09/IMG_9_MRT.jpeg",
+      "mask": "assets/puzzles/09/IMG_9_mask.png",
+      "cold": "assets/puzzles/09/IMG_9_cold_mask.png",
+      "meta": "assets/puzzles/09/IMG_9_meta.json"
+    },
+    {
+      "id": "10",
+      "rgb": "assets/puzzles/10/IMG_10_RGB.jpeg",
+      "temp": "assets/puzzles/10/IMG_10_MRT.jpeg",
+      "mask": "assets/puzzles/10/IMG_10_mask.png",
+      "cold": "assets/puzzles/10/IMG_10_cold_mask.png",
+      "meta": "assets/puzzles/10/IMG_10_meta.json"
+    }
+  ]
+}

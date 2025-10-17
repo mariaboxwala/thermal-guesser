@@ -1,0 +1,22 @@
+{
+  "width": 480,
+  "height": 640,
+  "target": {
+    "x": 309,
+    "y": 304
+  },
+  "ties": {
+    "count": 1,
+    "firstN": [
+      [
+        309,
+        304
+      ]
+    ]
+  },
+  "score": {
+    "dtMax": 0.6118,
+    "scale": "min",
+    "units": "normalized_0_to_1"
+  }
+}

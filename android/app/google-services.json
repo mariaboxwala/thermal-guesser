@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111136972005",
+    "project_id": "thermalguesser",
+    "storage_bucket": "thermalguesser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111136972005:android:b6d89fc45de8e4edd6480c",
+        "android_client_info": {
+          "package_name": "com.thermalguesser.app_thermal_guesser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmhl_urgvMuKdFzt63kS_F5z2GVzedD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
